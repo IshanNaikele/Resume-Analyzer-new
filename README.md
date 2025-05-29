@@ -210,6 +210,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ### Confidence Analysis
 ![Analysis](assets/screenshots/confidence-analysis.png)
 
+## 🎥 Project Demo
+
+👉 [Download the demo video (MP4)](assets/videos/ProjectVideo.mp4)
 
 ---
 
