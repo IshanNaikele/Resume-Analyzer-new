@@ -199,6 +199,18 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [ ] **Database Integration**: Store and manage classification history
 
 
+## 📈 Screenshots
+
+### Main Interface
+![Main Interface](assets/screenshots/main-interface.png)
+
+### Classification Results
+![Results](assets/screenshots/classification-results.png)
+
+### Confidence Analysis
+![Analysis](assets/screenshots/confidence-analysis.png)
+
+
 ---
 
 <div align="center">
